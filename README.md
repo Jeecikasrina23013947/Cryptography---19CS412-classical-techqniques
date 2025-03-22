@@ -517,5 +517,6 @@ OUTPUT:
 Enter a Secret Message wearediscovered
 Enter number of rails 2
 waeicvrderdsoee
+
 ## RESULT:
 The program is executed successfully
